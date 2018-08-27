@@ -6,4 +6,5 @@
 #
 
 # ipython
-exec python setup.py && python server.py
+exec python setup.py
+exec python server.py
